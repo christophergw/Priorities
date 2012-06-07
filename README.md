@@ -1,6 +1,6 @@
 <h1> Priorities</h1>
 
-Priorities is a suite of 3 AppleScripts for controlling media apps, giving priority to certain apps when multiple ones are currently open. By default, it will control the following apps, in the following order.
+Priorities is a suite of 3 AppleScripts for controlling media apps, giving priority to certain apps when multiple ones are open. By default, it will control the following apps, in the following order.
 
 1. iTunes
 * Rdio
